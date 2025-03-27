@@ -1,0 +1,68 @@
+{
+  "consolidated_weather": [
+    {
+      "id": 5565095488782336,
+      "weatherStateName": "Chicago",
+      "weatherType": "Thunder",
+      "created": "2019-02-10T19:55:02.434940Z",
+      "applicableDate": "2019-02-10",
+      "minTemp": -5.0,
+      "maxTemp": 6.883333333333333,
+      "theTemp": -1.0,
+      "wind_speed": 10.251177687940428,
+      "wind_direction": 288.4087075064449,
+      "air_pressure": 998.9649999999999,
+      "humidity": 79,
+      "visibility": 8.241867493835997,
+      "predictability": 73
+    },
+    {
+      "id": 5039805855432704,
+      "weatherStateName": "London",
+      "weatherType": "Light Rain",
+      "created": "2019-02-10T19:55:02.537745Z",
+      "applicableDate": "2019-02-11",
+      "minTemp": 1.7699999999999998,
+      "maxTemp": 16.986666666666668,
+      "theTemp": 13.0,
+      "wind_speed": 5.198548786091227,
+      "wind_direction": 319.24869874195554,
+      "air_pressure": 1027.4,
+      "humidity": 75,
+      "visibility": 11.027785234232084,
+      "predictability": 70
+    },
+    {
+      "id": 6214207016009728,
+      "weatherStateName": "America",
+      "weatherType": "Snow",
+      "created": "2019-02-10T19:55:02.736577Z",
+      "applicableDate": "2019-02-12",
+      "minTemp": 3.2699999999999996,
+      "maxTemp": 11.783333333333333,
+      "theTemp": 6.0,
+      "wind_speed": 6.291005350509027,
+      "wind_direction": 225.7496998927606,
+      "air_pressure": 1034.9099999999999,
+      "humidity": 77,
+      "visibility": 9.639331305177762,
+      "predictability": 71
+    },
+    {
+      "id": 6548160117735424,
+      "weatherStateName": "India",
+      "weatherType": "Light Cloud",
+      "created": "2019-02-10T19:55:02.687267Z",
+      "applicableDate": "2019-02-13",
+      "minTemp": 3.526666666666667,
+      "maxTemp": 50.47666666666667,
+      "theTemp": 40.695,
+      "wind_speed": 6.524550068392587,
+      "wind_direction": 203.1296143014564,
+      "air_pressure": 1035.775,
+      "humidity": 76,
+      "visibility": 12.940987135130836,
+      "predictability": 71
+    }
+  ]
+}

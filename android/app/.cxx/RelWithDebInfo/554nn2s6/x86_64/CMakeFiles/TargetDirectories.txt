@@ -1,0 +1,2 @@
+/Users/neosoft/Downloads/_flutter_projects/weather_app/android/app/.cxx/RelWithDebInfo/554nn2s6/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/neosoft/Downloads/_flutter_projects/weather_app/android/app/.cxx/RelWithDebInfo/554nn2s6/x86_64/CMakeFiles/edit_cache.dir
